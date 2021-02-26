@@ -8,3 +8,4 @@ ZCZC W00 75 L02 ZOOM related
 ZCZC W00 90 L21 VirtualBox: install GNU/Linux
 ZCZC W00 45 L08 Trying Something: Trying Linux and Vim
 ZCZC W00 10 L05 GSGS related
+ZCZC W00 120 L06 Reading References
