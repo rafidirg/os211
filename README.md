@@ -11,4 +11,4 @@ Qapla, Jolan Tru!
 
 ### Top ten week
 
-[W01](https://rafidirg.github.io/os211/WD01/)
+[W01](https://rafidirg.github.io/os211/W01/)
