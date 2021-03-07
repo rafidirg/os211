@@ -1,5 +1,8 @@
-# os211
-Operating System 2021-1
+---
+layout: ""
+---
+
+# Operating System 2021-1
 
 Hello!
 
@@ -11,4 +14,4 @@ Qapla, Jolan Tru!
 
 ### Top ten week
 
-[W01](https://rafidirg.github.io/os211/W01/)
+[W01](W01/)
