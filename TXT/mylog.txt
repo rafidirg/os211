@@ -22,3 +22,4 @@ ZCZC W01 30 L23 Discord:Helping friend setup virtual box
 ZCZC W01 15 L04 GitHub Pages: updating github pages
 ZCZC W02 80 L02 ZOOM related
 ZCZC W02 50 L06 Reading OSC10 Ch 16
+ZCZC W02 45 L25 C-language: Trying W02 Demos
