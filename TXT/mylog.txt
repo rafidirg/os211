@@ -25,4 +25,5 @@ ZCZC W02 50 L06 Reading OSC10 Ch 16
 ZCZC W02 45 L25 C-language: Trying W02 Demos
 ZCZC W02 30 L10 Assignment: Generate GPG and export mypubkey.txt
 ZCZC W02 15 L10 Assignment: Review my neighbor's top 10 list and create myrank.txt
+ZCZC W02 15 L10 Assignment: Copy myscript.sh and generate SHA256SUM
 
