@@ -4,8 +4,8 @@ layout: "layout"
 
 # Operating System 2021-1
 
-Hello!
+Hapunten akang teteh!
 
-This is Operating Systems 2021-1 (OS211) and I am Rafi I. Dirg, Bekasi
+leu Operating Systems 2021-1 (OS211) jeung abdi Rafi I. Dirg, Bekasi
 
-Qapla, Jolan Tru!
+wilujeung ayeuna
