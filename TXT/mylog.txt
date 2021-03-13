@@ -28,4 +28,4 @@ ZCZC W02 15 L10 Assignment: Review my neighbor's top 10 list and create myrank.t
 ZCZC W02 15 L10 Assignment: Copy myscript.sh and generate SHA256SUM
 ZCZC W02 10 L05 GSGS How to delete GPG public key, forgot my passpharase lol
 ZCZC W02 45 L04 GitHub Pages: Add Jekyll implementation
-
+ZCZC W02 120 L05 GSGS about encryption, virus, etc 
