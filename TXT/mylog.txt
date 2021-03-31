@@ -42,3 +42,4 @@ ZCZC W04 30 L10 Assigment: Tarball WEEK04.tar.bz
 ZCZC W04 45 L25 C-language: Trying Week04 Demos
 ZCZC W04 60 L05 GSGS related
 ZCZC W04 45 L06 Reading OSC10 Ch 9
+ZCZC W05 90 L02 ZOOM: Syncronous Class Session
