@@ -45,3 +45,5 @@ ZCZC W04 45 L06 Reading OSC10 Ch 9
 ZCZC W05 90 L02 ZOOM: Syncronous Class Session
 ZCZC W05 60 L10 Assignment: Trying Demos and Trying the lowest ram possible
 ZCZC W05 40 L22 YouTube: Watch Hamid Mukthar OSC Ch9 - Virtual Memory
+ZCZC W05 90 L05 GSGS for Top 10 Link
+ZCZC W05 15 L10 Assignment: Update top 10 links on w05.md
