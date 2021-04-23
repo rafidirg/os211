@@ -49,3 +49,6 @@ ZCZC W05 90 L05 GSGS for Top 10 Link
 ZCZC W05 15 L10 Assignment: Update top 10 links on w05.md
 ZCZC W06 110 L02 ZOOM: Syncronous class session
 ZCZC W06 15 L10 Assignmnet: Pick 3 out of 10 of Friends best top 10 links
+ZCZC W06 100 L06 Reading References: OSC Ch3 and Ch4 Slides
+ZCZC W06 45 L10 Assignment: Trying Demo Week06
+ZCZC W06 20 L10 Assignment: Create Week06-FORK.txt
