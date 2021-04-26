@@ -53,3 +53,4 @@ ZCZC W06 100 L06 Reading References: OSC Ch3 and Ch4 Slides
 ZCZC W06 45 L10 Assignment: Trying Demo Week06
 ZCZC W06 20 L10 Assignment: Create Week06-FORK.txt
 ZCZC W06 120 L10 Assignment: Create Top 10 Links For WEEK 06
+ZCZC W07 110 L02 ZOOM: Syncronous class session
