@@ -56,3 +56,5 @@ ZCZC W06 120 L10 Assignment: Create Top 10 Links For WEEK 06
 ZCZC W07 110 L02 ZOOM: Syncronous class session
 ZCZC W07 15 L10 Assignment: Pick 3 out of 10 Neighbours best top 10 links
 ZCZC W07 45 L10 Assignment: Create Week07 tarball
+ZCZC W07 20 L01 Scele: Pop Quiz W07
+ZCZC W07 30 L06 Reading References: OSC10 Ch 6
