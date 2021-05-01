@@ -59,3 +59,5 @@ ZCZC W07 45 L10 Assignment: Create Week07 tarball
 ZCZC W07 20 L01 Scele: Pop Quiz W07
 ZCZC W07 30 L06 Reading References: OSC10 Ch 6
 ZCZC W07 30 L08 Trying Demos Week07
+ZCZC W07 60 L06 Reading References: OSC10 Ch 7
+ZCZC W07 60 L05 GSGS for Top 10 Links W07
