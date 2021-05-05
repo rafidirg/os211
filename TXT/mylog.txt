@@ -63,3 +63,4 @@ ZCZC W07 60 L06 Reading References: OSC10 Ch 7
 ZCZC W07 60 L05 GSGS for Top 10 Links W07
 ZCZC W08 110 L02 ZOOM: Syncronous class session
 ZCZC W08 60 L06 Reading References: OSC10 Ch 5
+ZCZC W08 15 L10 Assignment: Pick 3 out of 10 Friend's top 10 link
