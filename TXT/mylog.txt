@@ -66,3 +66,4 @@ ZCZC W08 60 L06 Reading References: OSC10 Ch 5
 ZCZC W08 15 L10 Assignment: Pick 3 out of 10 Friend's top 10 link
 ZCZC W08 120 L10 Assignment: Do LFS Chapter 1 - 4
 ZCZC W08 90 L10 Assignment: GSGS and Make Top 10 Links
+ZCZC W09 110 L02 ZOOM: Syncronous class Session
